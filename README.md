@@ -1,1 +1,1 @@
-# excel-data-analysis
+I worked with a cleaned version of the classic Iris dataset, which contains measurements of sepal length, sepal width, petal length, and petal width for three flower varieties: Setosa, Versicolor, and Virginica. The cleaned data show that Setosa has the smallest petals and sepals, Virginica the largest, and Versicolor sits in between, with sepal lengths ranging roughly from 4.3 to 7.9 cm. A sepal-length distribution chart suggests most flowers fall in the middle range (about 5.0–6.5 cm), with relatively few very small or very large observations. sis
